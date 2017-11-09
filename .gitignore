@@ -1,0 +1,17 @@
+*.o
+src/rbf/rbftest1
+src/rbf/rbftest2
+src/rbf/rbftest3
+src/rbf/rbftest4
+src/rbf/rbftest5
+src/rbf/rbftest6
+src/rbf/rbftest7
+src/rbf/rbftest8
+src/rbf/rbftest8b
+src/rbf/rbftest9
+src/rbf/rbftest10
+src/rbf/rbftest11
+src/rbf/rbftest12
+.project
+.cproject
+.settings
