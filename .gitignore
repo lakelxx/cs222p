@@ -1,4 +1,6 @@
 *.o
+*.a
+src/rbf/librbf.a
 src/rbf/rbftest1
 src/rbf/rbftest2
 src/rbf/rbftest3
